@@ -8,7 +8,6 @@ test.php
 sms.php
 pages/
 system/cache/**
-system/plugin/*
 !system/cache/index.html
 !system/plugin/index.html
 !system/paymentgateway/ui/index.html
